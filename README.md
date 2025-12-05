@@ -42,8 +42,6 @@ Arquivos típicos nas releases:
 pip install tkinter aiohttp python-socketio cryptography pillow requests pystray
 ```
 
-(algumas libs são opcionais: pystray -> ícone de bandeja, Pillow -> imagens).
-
 ---
 
 ## ▶️ Como rodar
